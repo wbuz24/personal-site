@@ -33,6 +33,14 @@ a:hover {color: #FC436B; text-decoration:underline; cursor: grabbing;}
     height: 300px; 
 }
 
+.lbm {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 40%;
+}
+
 #images{
     text-align:center;
 }
@@ -122,6 +130,16 @@ ul#topnav li a {
     color:#050515;
     margin-top:10px;
     text-align: center;
+}
+
+.links {
+  width: 62.5%;
+  border-bottom: 1px solid #eee;
+  font-size: 40px;
+  padding: 20px 10px;
+  margin: auto;
+  text-align: center;
+
 }
 
 .section {
