@@ -33,6 +33,14 @@ a:hover {color: #FC436B; text-decoration:underline; cursor: grabbing;}
     height: 300px; 
 }
 
+.square {
+    margin-left: auto;
+    margin-right: auto;
+    position: center;
+    height: 450px;
+    width: 40%;
+}
+
 .lbm {
     display: inline-block;
     margin-left: auto;
