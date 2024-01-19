@@ -34,9 +34,9 @@ a:hover {color: #FC436B; text-decoration:underline; cursor: grabbing;}
 }
 
 .square {
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    position: center;
     height: 450px;
     width: 40%;
 }
